@@ -31,7 +31,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Deployed versions`
 https://yutube.vercel.app/
+
 https://upbeat-roentgen-b5d3b2.netlify.app/
+
 
 ### `npm run eject`
 
